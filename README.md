@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-
 <!--
 **dchorn/dchorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
