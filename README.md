@@ -17,3 +17,4 @@
 <!-- ---  the 3 "---" creates a separator line -->
 
 ### 👨‍💻: About Me :
+#### 🧬 Bioinfomatic Sudent
