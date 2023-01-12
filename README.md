@@ -18,3 +18,5 @@
 
 ### 👨‍💻: About Me :
 #### 🧬 Bioinfomatic Sudent
+
+### 🖥️: Technologies:
