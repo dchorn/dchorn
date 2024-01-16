@@ -20,8 +20,8 @@
 
 <h2>👨‍💻: About Me :</h2>
 {
-🧬 Bioinfomatic Sudent,
-🎂 I'm 22 years old
+* 🧬 `Bioinfomatic Sudent`,
+* 🎂 `I'm` 22 years old`,
 }
 
 ### 🖥️: Technologies and Skills:
