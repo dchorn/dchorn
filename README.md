@@ -23,6 +23,11 @@
 * 🧬 `Bioinfomatic Sudent`,
 * 🎂 `I'm` 22 years old`,
 }
+{  
+
+* 👂 `My name is`: **Denys**,
+* 👩 `Pronouns`: **He**,
+}
 
 ### 🖥️: Technologies and Skills:
 
