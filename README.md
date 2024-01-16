@@ -20,6 +20,8 @@
 
 ### 👨‍💻: About Me :
 #### 🧬 Bioinfomatic Sudent
+#### 🎂 I'm 22 years old
+
 
 ### 🖥️: Technologies and Skills:
 
