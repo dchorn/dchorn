@@ -19,4 +19,10 @@
 ### 👨‍💻: About Me :
 #### 🧬 Bioinfomatic Sudent
 
-### 🖥️: Technologies:
+### 🖥️: Technologies and Skills:
+
+<h4>Pogramming languages</h4>
+<h4>Html</h4>
+<h4>Frameworks and Libraries</h4>
+<h4>Software</h4>
+<h4>Cloud and Providers</h4>
