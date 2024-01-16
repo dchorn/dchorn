@@ -9,19 +9,20 @@
   </a>
 </div>
 
-<h1 align="center">
+<h2 align="center">
   Hi there, Denys Speaking
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
 ![](https://komarev.com/ghpvc/?username=dchorn)
 
 <!-- ---  the 3 "---" creates a separator line -->
 
-### 👨‍💻: About Me :
-#### 🧬 Bioinfomatic Sudent
-#### 🎂 I'm 22 years old
-
+<h2>👨‍💻: About Me :</h2>
+{
+🧬 Bioinfomatic Sudent,
+🎂 I'm 22 years old
+}
 
 ### 🖥️: Technologies and Skills:
 
