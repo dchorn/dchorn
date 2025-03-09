@@ -86,7 +86,7 @@ I'm developing several projects as part of my learning journey. Check back soon 
 - **DevConnect**: Developer networking platform (MEAN stack)
 - **CodeSnippet**: Code sharing and collaboration tool
 
-> Follow my [#100DaysOfCode journey on Twitter](https://twitter.com/YOUR_HANDLE) to see daily progress!
+> Follow my [#100DaysOfCode journey on Twitter](https://x.com/DechCode) to see daily progress!
 
 ## 🌐 Languages
 
